@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Trip to Japan",
+    "participants": [
+      "Andre"
+    ],
+    "messages": [
+      {
+        "sender": "user",
+        "content": "Plan a 5-day trip to Tokyo."
+      },
+      {
+        "sender": "ai",
+        "content": "Sure \u2014 here's a 5-day plan with highlights..."
+      }
+    ],
+    "summary": "Planned a 5-day Tokyo trip covering Shibuya, Asakusa, day trip to Hakone."
+  },
+  {
+    "title": "Project Roadmap",
+    "participants": [
+      "Andre",
+      "Team"
+    ],
+    "messages": [
+      {
+        "sender": "user",
+        "content": "Milestones and deadlines"
+      },
+      {
+        "sender": "ai",
+        "content": "Set milestones: M1: 2025-11-09, M2: 2025-12-01"
+      }
+    ],
+    "summary": "Defined milestones and action items."
+  }
+]
